@@ -4,11 +4,11 @@
 #support-url: t.me/PewezaTech
 #profile-web-page-url: t.me/PewezaTech
 
-vless://ddc26b7c-1e73-468c-97a8-e4313dbb3843@45.131.185.205:50109?encryption=none&fp=chrome&pbk=6BC_u20k1UtP6kc1Hybu1kWCC3IBfPJKteJqQ2-W3lw&security=reality&sid=7f58f1&sni=yahoo.com&spx=%2Ff67114959f1f7d3&type=tcp#Peweza-Reality-1
-vless://3e4653e9-89ec-44ab-bbf8-cd4435b2d6a9@45.131.185.205:37729?encryption=none&fp=chrome&pbk=riIXRIGIM1lb6xSr-XMaKn7j3KO-xW1B0mpUc20Pf34&security=reality&sid=efb4934e5d98&sni=timeline.www.cloudflare.com&spx=%2Fd0b80b3ab62d419&type=tcp#Peweza-Reality-2
-vless://4a5ce376-eaa3-416b-b217-1dda2ba23bb4@45.131.185.205:42464?encryption=none&host=&path=%2F&security=none&type=ws#Peweza-Ws-3
-vless://1bf88635-6910-465a-a098-c922e1ebf285@45.131.185.205:35958?encryption=none&host=&path=%2F&security=none&type=ws#Peweza-Ws-4
-vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@45.131.185.205:15139?encryption=none&security=none&type=tcp#Peweza-Tcp-5
-vless://c8d2ebd5-d3cb-445e-923a-84f952a71917@45.131.185.205:10079?encryption=none&security=none&type=tcp#Peweza-Tcp-6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@45.131.185.205:16460?type=tcp#Peweza-Outline-7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y211dnphOWd5ZXR4MHo4@45.131.185.205:25783?type=tcp#Peweza-Outline-8
+vless://ddc26b7c-1e73-468c-97a8-e4313dbb3843@45.131.185.44:50109?encryption=none&fp=chrome&pbk=6BC_u20k1UtP6kc1Hybu1kWCC3IBfPJKteJqQ2-W3lw&security=reality&sid=2bb52d32&sni=yahoo.com&spx=%2Ff67114959f1f7d3&type=tcp#Peweza-Reality-1
+vless://3e4653e9-89ec-44ab-bbf8-cd4435b2d6a9@45.131.185.44:37729?encryption=none&fp=chrome&pbk=riIXRIGIM1lb6xSr-XMaKn7j3KO-xW1B0mpUc20Pf34&security=reality&sid=d2e0bc5ee9&sni=timeline.www.cloudflare.com&spx=%2Fd0b80b3ab62d419&type=tcp#Peweza-Reality-2
+vless://4a5ce376-eaa3-416b-b217-1dda2ba23bb4@45.131.185.44:42464?encryption=none&host=&path=%2F&security=none&type=ws#Peweza-Ws-3
+vless://1bf88635-6910-465a-a098-c922e1ebf285@45.131.185.44:35958?encryption=none&host=&path=%2F&security=none&type=ws#Peweza-Ws-4
+vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@45.131.185.44:15139?encryption=none&security=none&type=tcp#Peweza-Tcp-5
+vless://c8d2ebd5-d3cb-445e-923a-84f952a71917@45.131.185.44:10079?encryption=none&security=none&type=tcp#Peweza-Tcp-6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@45.131.185.44:16460?type=tcp#Peweza-Outline-7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y211dnphOWd5ZXR4MHo4@45.131.185.44:25783?type=tcp#Peweza-Outline-8
